@@ -1,0 +1,1 @@
+date:5 interval:1 stuId:804 stuName:ÐÜÐ¡´¨ roomId:2 status:0
